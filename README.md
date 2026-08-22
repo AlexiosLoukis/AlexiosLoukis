@@ -1,36 +1,40 @@
-👋 ## Hi, I'm Alexios Loukis
+# 👋 Hi, I'm Alexios Loukis
 
-☁️ Cloud & DevOps Engineer in Progress
+## ☁️ Cloud & DevOps Engineer in Progress
 
-────────────────────────────────────────────
+---
 
-🛠 ## Tech Stack
+# 🛠️ Tech Stack
 
-[Azure] [Terraform] [Docker] [Linux]
-[GitHub Actions] [Python] [Git]
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,githubactions,python,git" />
+</p>
 
-────────────────────────────────────────────
+---
 
-📚 ## Currently Learning
+# 📚 Currently Learning
 
-DevOps Engineer Path @ Boot.dev
+### ☁️ Azure
+Preparing for **AZ-104: Microsoft Azure Administrator**
 
-Python → Linux → Git → Docker
-→ Observability → CI/CD
-→ Kubernetes
+### 📊 Observability
 
-────────────────────────────────────────────
+### 🔄 CI/CD
 
-🚀 ## Featured Project
+### ☸️ Kubernetes
 
-🐳 Multi-Container Web API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,grafana,githubactions,kubernetes" />
+</p>
 
-────────────────────────────────────────────
+---
 
-🎯 ## Career Path
+# 🚀 Featured Project
 
-Cloud ☁️
-   
-DevOps ⚙️
-   
-Cloud Security 🔐
+### 🐳 Multi-Container Web API
+
+---
+
+# 🎯 Career Path
+
+**Cloud → DevOps → Cloud Security**
