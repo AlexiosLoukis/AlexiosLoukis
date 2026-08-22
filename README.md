@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alexios Loukis
 
-## ☁️ Cloud & DevOps Engineer in Progress
+ ☁️ Cloud & DevOps Engineer in Progress
 
 
 ## 🛠️ Tech Stack
