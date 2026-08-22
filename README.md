@@ -39,8 +39,8 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 
 <p align="center">
   <img
-    src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/profile_images/2bb7a910-77a0-4f95-9dca-30290ff91f73.png"
+    src="https://www.boot.dev/u/alekan"
     width="500"
-    alt="My Boot.dev profile"
+    alt="Alexios Loukis - Boot.dev"
   />
 </p>
