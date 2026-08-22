@@ -2,7 +2,6 @@
 
 ## ☁️ Cloud & DevOps Engineer in Progress
 
----
 
 ## 🛠️ Tech Stack
 
@@ -10,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,githubactions,python,git" />
 </p>
 
----
 
 ## 📚 Currently Learning
 
@@ -27,13 +25,11 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
   <img src="https://skillicons.dev/icons?i=grafana,kubernetes" />
 </p>
 
----
 
 ## 🚀 Featured Project
 
  🐳 Multi-Container Web API
 
----
 
 ## 🎯 Career Path
 
