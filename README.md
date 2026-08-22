@@ -34,3 +34,8 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 ## 🎯 Career Path
 
 **Cloud → DevOps → Cloud Security**
+
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/1d48ca16-83ec-4720-a73e-9631ab088908/thumbnail" >
+</p>
