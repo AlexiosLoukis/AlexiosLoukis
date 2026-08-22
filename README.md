@@ -16,7 +16,7 @@
 DevOps Engineer Path @ Boot.dev
 
 Python → Linux → Git → Docker
-→ Observability → AWS → CI/CD
+→ Observability → CI/CD
 → Kubernetes
 
 ────────────────────────────────────────────
@@ -30,7 +30,7 @@ Python → Linux → Git → Docker
 🎯 Career Path
 
 Cloud ☁️
-   ↓
+   
 DevOps ⚙️
-   ↓
+   
 Cloud Security 🔐
