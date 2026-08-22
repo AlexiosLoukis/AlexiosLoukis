@@ -34,3 +34,13 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 ## 🎯 Career Path
 
 **Cloud → DevOps → Cloud Security**
+
+## 🎓 Boot.dev
+
+<p align="center">
+  <img
+    src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/profile_images/2bb7a910-77a0-4f95-9dca-30290ff91f73.png"
+    width="500"
+    alt="My Boot.dev profile"
+  />
+</p>
