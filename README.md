@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Alexios Loukis
+## 👋 Hi, I'm Alexios Loukis
 
 ## ☁️ Cloud & DevOps Engineer in Progress
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,githubactions,python,git" />
@@ -12,16 +12,16 @@
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-### ☁️ Azure
+ ☁️ Azure
 Preparing for **AZ-104: Microsoft Azure Administrator**
 
-### 📊 Observability
+ 📊 Observability
 
-### 🔄 CI/CD
+ 🔄 CI/CD
 
-### ☸️ Kubernetes
+ ☸️ Kubernetes
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,grafana,githubactions,kubernetes" />
@@ -29,12 +29,12 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-### 🐳 Multi-Container Web API
+ 🐳 Multi-Container Web API
 
 ---
 
-# 🎯 Career Path
+## 🎯 Career Path
 
 **Cloud → DevOps → Cloud Security**
