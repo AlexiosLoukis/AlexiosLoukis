@@ -12,19 +12,37 @@
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,grafana,githubactions,kubernetes&perline=4" />
-</p>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-<p align="center">
-  <strong>Azure</strong> • <strong>Observability</strong> • <strong>CI/CD</strong> • <strong>Kubernetes</strong>
-</p>
+☁️ <strong>Azure</strong><br>
+Preparing for <strong>AZ-104: Microsoft Azure Administrator</strong>
+<br><br>
 
-<p align="center">
-  <sub>Preparing for AZ-104: Microsoft Azure Administrator</sub>
-</p>
+📊 <strong>Observability</strong>
+<br><br>
+
+🔄 <strong>CI/CD</strong>
+<br><br>
+
+☸️ <strong>Kubernetes</strong>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=azure&perline=1" width="115" />
+
+<br>
+
+<strong>Cloud Engineering</strong>
+
+</td>
+</tr>
+</table>
 
 ---
 
