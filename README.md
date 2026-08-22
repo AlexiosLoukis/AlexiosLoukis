@@ -38,5 +38,6 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 ## 🎓 Boot.dev
 
 <p align="left">
+ <a href="https://www.boot.dev/u/alekan">
   <img src="https://api.boot.dev/v1/users/public/1d48ca16-83ec-4720-a73e-9631ab088908/thumbnail" >
 </p>
