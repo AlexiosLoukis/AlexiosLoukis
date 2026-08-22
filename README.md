@@ -24,7 +24,7 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
  ☸️ Kubernetes
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,grafana,githubactions,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=grafana,kubernetes" />
 </p>
 
 ---
