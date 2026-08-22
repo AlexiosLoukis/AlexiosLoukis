@@ -16,30 +16,27 @@
 
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="65%" valign="middle">
 
 ☁️ <strong>Azure</strong><br>
 Preparing for <strong>AZ-104: Microsoft Azure Administrator</strong>
-
 <br><br>
 
 📊 <strong>Observability</strong>
-
 <br><br>
 
 🔄 <strong>CI/CD</strong>
-
 <br><br>
 
 ☸️ <strong>Kubernetes</strong>
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://thesvg.org/icons/cloud/default.svg" width="115" alt="Cloud Engineering">
+<img src="https://skillicons.dev/icons?i=azure&perline=1" width="115" />
 
-<br><br>
+<br>
 
 <strong>Cloud Engineering</strong>
 
