@@ -12,19 +12,18 @@
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
- ☁️ Azure
-Preparing for **AZ-104: Microsoft Azure Administrator**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,grafana,githubactions,kubernetes&perline=4" />
+</p>
 
- 📊 Observability
+<p align="center">
+  <strong>Azure</strong> • <strong>Observability</strong> • <strong>CI/CD</strong> • <strong>Kubernetes</strong>
+</p>
 
- 🔄 CI/CD
-
- ☸️ Kubernetes
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana,kubernetes" />
+<p align="center">
+  <sub>Preparing for AZ-104: Microsoft Azure Administrator</sub>
 </p>
 
 ---
