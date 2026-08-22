@@ -34,13 +34,3 @@ Preparing for **AZ-104: Microsoft Azure Administrator**
 ## 🎯 Career Path
 
 **Cloud → DevOps → Cloud Security**
-
-## 🎓 Boot.dev
-
-<p align="center">
-  <img
-    src="https://www.boot.dev/u/alekan"
-    width="500"
-    alt="Alexios Loukis - Boot.dev"
-  />
-</p>
