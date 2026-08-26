@@ -51,6 +51,7 @@ You can't secure infrastructure you don't know how to build. I'm learning to bui
 
 ## 📫 Find me
 
+[![Website](https://img.shields.io/badge/alexiosloukis.dev-16202E?style=flat&logo=astro&logoColor=white)](https://alexiosloukis.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexiosloukis/)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-000000?style=flat&logo=boot.dev&logoColor=white)](https://www.boot.dev/u/alekan)
 
